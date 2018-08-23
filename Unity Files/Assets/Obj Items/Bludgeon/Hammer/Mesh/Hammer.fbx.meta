@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: a633038116154c9428aaf50ba6a4b74d
+timeCreated: 1502766051
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint2
+    100006: joint3
+    100008: joint4
+    100010: joint5
+    100012: joint6
+    100014: joint7
+    100016: joint8
+    100018: pCube5
+    100020: pCube6
+    100022: pCube8SmoothProxyGroup
+    100024: pCube9
+    100026: pCylinder10
+    100028: pCylinder4
+    100030: pCylinder5
+    100032: pCylinder6
+    100034: pCylinder7
+    100036: pCylinder8
+    100038: pCylinder9
+    100040: pPlane2
+    100042: pPlane3
+    100044: size_reference_pCube11
+    100046: size_reference_pCube12
+    100048: size_reference_pCube14
+    100050: size_reference_pCube15
+    100052: size_reference_pCube17
+    100054: size_reference_pCube18
+    100056: size_reference_pCube5
+    100058: size_reference_pCube6
+    100060: size_reference_pCube8
+    100062: size_reference_pCube9
+    100064: transform2
+    100066: transform2 1
+    100068: transform2 2
+    100070: transform2 3
+    100072: transform2 4
+    100074: transform2 5
+    100076: transform3
+    100078: transform4
+    100080: transform5
+    100082: transform6
+    100084: transform7
+    100086: transform8
+    100088: transform9
+    400000: //RootNode
+    400002: joint1
+    400004: joint2
+    400006: joint3
+    400008: joint4
+    400010: joint5
+    400012: joint6
+    400014: joint7
+    400016: joint8
+    400018: pCube5
+    400020: pCube6
+    400022: pCube8SmoothProxyGroup
+    400024: pCube9
+    400026: pCylinder10
+    400028: pCylinder4
+    400030: pCylinder5
+    400032: pCylinder6
+    400034: pCylinder7
+    400036: pCylinder8
+    400038: pCylinder9
+    400040: pPlane2
+    400042: pPlane3
+    400044: size_reference_pCube11
+    400046: size_reference_pCube12
+    400048: size_reference_pCube14
+    400050: size_reference_pCube15
+    400052: size_reference_pCube17
+    400054: size_reference_pCube18
+    400056: size_reference_pCube5
+    400058: size_reference_pCube6
+    400060: size_reference_pCube8
+    400062: size_reference_pCube9
+    400064: transform2
+    400066: transform2 1
+    400068: transform2 2
+    400070: transform2 3
+    400072: transform2 4
+    400074: transform2 5
+    400076: transform3
+    400078: transform4
+    400080: transform5
+    400082: transform6
+    400084: transform7
+    400086: transform8
+    400088: transform9
+    2300000: pCylinder10
+    3300000: pCylinder10
+    4300000: pCylinder10
+    4300002: pPlane2
+    4300004: pPlane3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pPlane2
+    13700002: pPlane3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: joint1
+        weight: 1
+      - path: joint1/joint2
+        weight: 1
+      - path: joint1/joint2/joint3
+        weight: 1
+      - path: joint1/joint2/joint3/joint4
+        weight: 1
+      - path: joint5
+        weight: 1
+      - path: joint5/joint6
+        weight: 1
+      - path: joint5/joint6/joint7
+        weight: 1
+      - path: joint5/joint6/joint7/joint8
+        weight: 1
+      - path: pCube5
+        weight: 1
+      - path: pCube5/transform2
+        weight: 1
+      - path: pCube6
+        weight: 1
+      - path: pCube8SmoothProxyGroup
+        weight: 1
+      - path: pCube9
+        weight: 1
+      - path: pCube9/transform8
+        weight: 1
+      - path: pCylinder4
+        weight: 1
+      - path: pCylinder4/transform4
+        weight: 1
+      - path: pCylinder5
+        weight: 1
+      - path: pCylinder5/transform3
+        weight: 1
+      - path: pCylinder6
+        weight: 1
+      - path: pCylinder6/transform5
+        weight: 1
+      - path: pCylinder7
+        weight: 1
+      - path: pCylinder7/transform6
+        weight: 1
+      - path: pCylinder8
+        weight: 1
+      - path: pCylinder8/transform7
+        weight: 1
+      - path: pCylinder9
+        weight: 1
+      - path: pCylinder9/transform9
+        weight: 1
+      - path: pCylinder10
+        weight: 1
+      - path: pPlane2
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: size_reference_pCube5
+        weight: 1
+      - path: size_reference_pCube5/transform2 4
+        weight: 1
+      - path: size_reference_pCube6
+        weight: 1
+      - path: size_reference_pCube8
+        weight: 1
+      - path: size_reference_pCube8/transform2 5
+        weight: 1
+      - path: size_reference_pCube9
+        weight: 1
+      - path: size_reference_pCube11
+        weight: 1
+      - path: size_reference_pCube11/transform2 1
+        weight: 1
+      - path: size_reference_pCube12
+        weight: 1
+      - path: size_reference_pCube14
+        weight: 1
+      - path: size_reference_pCube14/transform2 2
+        weight: 1
+      - path: size_reference_pCube15
+        weight: 1
+      - path: size_reference_pCube17
+        weight: 1
+      - path: size_reference_pCube17/transform2 3
+        weight: 1
+      - path: size_reference_pCube18
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

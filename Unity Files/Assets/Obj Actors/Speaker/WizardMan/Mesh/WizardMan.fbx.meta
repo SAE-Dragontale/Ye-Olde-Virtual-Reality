@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 9387ce0354b12d14dafb920d4c2eef2c
+timeCreated: 1503036989
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Abdomin
+    100002: Armature
+    100004: Bone.005
+    100006: Bone.006
+    100008: Bone.007
+    100010: Bone.008
+    100012: Bone.009
+    100014: Bone.010
+    100016: Bone.013
+    100018: Bone.014
+    100020: Bone.017
+    100022: Bone.018
+    100024: Calf.L
+    100026: Calf.R
+    100028: Chest
+    100030: eHat1
+    100032: eHat2
+    100034: Elbow.L
+    100036: Elbow.R
+    100038: fingerIndex1.L
+    100040: fingerIndex1.R
+    100042: fingerIndex2.L
+    100044: fingerIndex2.R
+    100046: fingerIndex3.L
+    100048: fingerIndex3.R
+    100050: fingerMiddle1.L
+    100052: fingerMiddle1.R
+    100054: fingerMiddle2.L
+    100056: fingerMiddle2.R
+    100058: fingerMiddle3.L
+    100060: fingerMiddle3.R
+    100062: fingerPinky1.L
+    100064: fingerPinky1.R
+    100066: fingerPinky2.L
+    100068: fingerPinky2.R
+    100070: fingerPinky3.L
+    100072: fingerPinky3.R
+    100074: fingerRing1.L
+    100076: fingerRing1.R
+    100078: fingerRing2.L
+    100080: fingerRing2.R
+    100082: fingerRing3.L
+    100084: fingerRing3.R
+    100086: fingerThumb1.L
+    100088: fingerThumb1.R
+    100090: fingerThumb2.L
+    100092: fingerThumb2.R
+    100094: fingerThumb3.L
+    100096: fingerThumb3.R
+    100098: Foot IK.L
+    100100: Foot IK.R
+    100102: Foot.L
+    100104: Foot.R
+    100106: Forearm.L
+    100108: Forearm.R
+    100110: Hat
+    100112: hatBase
+    100114: hatMid
+    100116: hatTip
+    100118: Head
+    100120: Head IK.L
+    100122: Icosphere
+    100124: Knee.L
+    100126: Knee.R
+    100128: //RootNode
+    100130: Neck.L
+    100132: nHat1
+    100134: nHat2
+    100136: sHat1
+    100138: sHat2
+    100140: Thigh.L
+    100142: Thigh.R
+    100144: Upperarm.L
+    100146: Upperarm.R
+    100148: Wizard
+    100150: WizardHat
+    100152: Wrist IK.L
+    100154: Wrist IK.R
+    100156: Wrist.L
+    100158: Wrist.R
+    400000: Abdomin
+    400002: Armature
+    400004: Bone.005
+    400006: Bone.006
+    400008: Bone.007
+    400010: Bone.008
+    400012: Bone.009
+    400014: Bone.010
+    400016: Bone.013
+    400018: Bone.014
+    400020: Bone.017
+    400022: Bone.018
+    400024: Calf.L
+    400026: Calf.R
+    400028: Chest
+    400030: eHat1
+    400032: eHat2
+    400034: Elbow.L
+    400036: Elbow.R
+    400038: fingerIndex1.L
+    400040: fingerIndex1.R
+    400042: fingerIndex2.L
+    400044: fingerIndex2.R
+    400046: fingerIndex3.L
+    400048: fingerIndex3.R
+    400050: fingerMiddle1.L
+    400052: fingerMiddle1.R
+    400054: fingerMiddle2.L
+    400056: fingerMiddle2.R
+    400058: fingerMiddle3.L
+    400060: fingerMiddle3.R
+    400062: fingerPinky1.L
+    400064: fingerPinky1.R
+    400066: fingerPinky2.L
+    400068: fingerPinky2.R
+    400070: fingerPinky3.L
+    400072: fingerPinky3.R
+    400074: fingerRing1.L
+    400076: fingerRing1.R
+    400078: fingerRing2.L
+    400080: fingerRing2.R
+    400082: fingerRing3.L
+    400084: fingerRing3.R
+    400086: fingerThumb1.L
+    400088: fingerThumb1.R
+    400090: fingerThumb2.L
+    400092: fingerThumb2.R
+    400094: fingerThumb3.L
+    400096: fingerThumb3.R
+    400098: Foot IK.L
+    400100: Foot IK.R
+    400102: Foot.L
+    400104: Foot.R
+    400106: Forearm.L
+    400108: Forearm.R
+    400110: Hat
+    400112: hatBase
+    400114: hatMid
+    400116: hatTip
+    400118: Head
+    400120: Head IK.L
+    400122: Icosphere
+    400124: Knee.L
+    400126: Knee.R
+    400128: //RootNode
+    400130: Neck.L
+    400132: nHat1
+    400134: nHat2
+    400136: sHat1
+    400138: sHat2
+    400140: Thigh.L
+    400142: Thigh.R
+    400144: Upperarm.L
+    400146: Upperarm.R
+    400148: Wizard
+    400150: WizardHat
+    400152: Wrist IK.L
+    400154: Wrist IK.R
+    400156: Wrist.L
+    400158: Wrist.R
+    2300000: Icosphere
+    3300000: Icosphere
+    4300000: Icosphere
+    4300002: WizardHat
+    4300004: Wizard
+    7400000: Butt Scratch
+    7400002: Magic
+    7400004: Breathing
+    7400006: TeleportPlayer
+    7400008: Magic | Magic Ball
+    7400010: Icosphere|WizardHatAction
+    7400012: Armature|Breathing
+    7400014: Armature|Breathing.001
+    7400016: Armature|Butt Scratch
+    7400018: Armature|Magic Ball
+    7400020: Armature|Magic1
+    7400022: Armature|TeleportPlayer
+    7400024: Armature|WizardHatAction
+    9500000: //RootNode
+    13700000: Wizard
+    13700002: WizardHat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Butt Scratch
+      takeName: Butt Scratch.001
+      firstFrame: 0
+      lastFrame: 164
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomin
+        weight: 1
+      - path: Armature/Abdomin/Chest
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007/Bone.008
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1/eHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid/hatTip
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1/nHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1/sHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L/fingerIndex3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L/fingerMiddle3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L/fingerPinky3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L/fingerRing3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L/fingerThumb3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R/fingerIndex3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R/fingerMiddle3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R/fingerPinky3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R/fingerRing3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R/fingerThumb3.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L/Calf.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R/Calf.R
+        weight: 1
+      - path: Armature/Elbow.L
+        weight: 1
+      - path: Armature/Elbow.R
+        weight: 1
+      - path: Armature/Foot IK.L
+        weight: 1
+      - path: Armature/Foot IK.L/Foot.L
+        weight: 1
+      - path: Armature/Foot IK.R
+        weight: 1
+      - path: Armature/Foot IK.R/Foot.R
+        weight: 1
+      - path: Armature/Head IK.L
+        weight: 1
+      - path: Armature/Knee.L
+        weight: 1
+      - path: Armature/Knee.R
+        weight: 1
+      - path: Armature/Neck.L
+        weight: 1
+      - path: Armature/Wrist IK.L
+        weight: 1
+      - path: Armature/Wrist IK.R
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Wizard
+        weight: 1
+      - path: WizardHat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Magic
+      takeName: Magic1
+      firstFrame: 0
+      lastFrame: 311
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomin
+        weight: 1
+      - path: Armature/Abdomin/Chest
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007/Bone.008
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1/eHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid/hatTip
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1/nHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1/sHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L/fingerIndex3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L/fingerMiddle3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L/fingerPinky3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L/fingerRing3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L/fingerThumb3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R/fingerIndex3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R/fingerMiddle3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R/fingerPinky3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R/fingerRing3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R/fingerThumb3.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L/Calf.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R/Calf.R
+        weight: 1
+      - path: Armature/Elbow.L
+        weight: 1
+      - path: Armature/Elbow.R
+        weight: 1
+      - path: Armature/Foot IK.L
+        weight: 1
+      - path: Armature/Foot IK.L/Foot.L
+        weight: 1
+      - path: Armature/Foot IK.R
+        weight: 1
+      - path: Armature/Foot IK.R/Foot.R
+        weight: 1
+      - path: Armature/Head IK.L
+        weight: 1
+      - path: Armature/Knee.L
+        weight: 1
+      - path: Armature/Knee.R
+        weight: 1
+      - path: Armature/Neck.L
+        weight: 1
+      - path: Armature/Wrist IK.L
+        weight: 1
+      - path: Armature/Wrist IK.R
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Wizard
+        weight: 1
+      - path: WizardHat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Breathing
+      takeName: Breathing.001
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomin
+        weight: 1
+      - path: Armature/Abdomin/Chest
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007/Bone.008
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1/eHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid/hatTip
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1/nHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1/sHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L/fingerIndex3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L/fingerMiddle3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L/fingerPinky3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L/fingerRing3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L/fingerThumb3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R/fingerIndex3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R/fingerMiddle3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R/fingerPinky3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R/fingerRing3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R/fingerThumb3.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L/Calf.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R/Calf.R
+        weight: 1
+      - path: Armature/Elbow.L
+        weight: 1
+      - path: Armature/Elbow.R
+        weight: 1
+      - path: Armature/Foot IK.L
+        weight: 1
+      - path: Armature/Foot IK.L/Foot.L
+        weight: 1
+      - path: Armature/Foot IK.R
+        weight: 1
+      - path: Armature/Foot IK.R/Foot.R
+        weight: 1
+      - path: Armature/Head IK.L
+        weight: 1
+      - path: Armature/Knee.L
+        weight: 1
+      - path: Armature/Knee.R
+        weight: 1
+      - path: Armature/Neck.L
+        weight: 1
+      - path: Armature/Wrist IK.L
+        weight: 1
+      - path: Armature/Wrist IK.R
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Wizard
+        weight: 1
+      - path: WizardHat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: TeleportPlayer
+      takeName: TeleportPlayer
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomin
+        weight: 1
+      - path: Armature/Abdomin/Chest
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007/Bone.008
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1/eHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid/hatTip
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1/nHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1/sHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L/fingerIndex3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L/fingerMiddle3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L/fingerPinky3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L/fingerRing3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L/fingerThumb3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R/fingerIndex3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R/fingerMiddle3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R/fingerPinky3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R/fingerRing3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R/fingerThumb3.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L/Calf.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R/Calf.R
+        weight: 1
+      - path: Armature/Elbow.L
+        weight: 1
+      - path: Armature/Elbow.R
+        weight: 1
+      - path: Armature/Foot IK.L
+        weight: 1
+      - path: Armature/Foot IK.L/Foot.L
+        weight: 1
+      - path: Armature/Foot IK.R
+        weight: 1
+      - path: Armature/Foot IK.R/Foot.R
+        weight: 1
+      - path: Armature/Head IK.L
+        weight: 1
+      - path: Armature/Knee.L
+        weight: 1
+      - path: Armature/Knee.R
+        weight: 1
+      - path: Armature/Neck.L
+        weight: 1
+      - path: Armature/Wrist IK.L
+        weight: 1
+      - path: Armature/Wrist IK.R
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Wizard
+        weight: 1
+      - path: WizardHat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Magic | Magic Ball
+      takeName: Icosphere|Magic Ball
+      firstFrame: 0
+      lastFrame: 304
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomin
+        weight: 1
+      - path: Armature/Abdomin/Chest
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.005/Bone.006
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.007/Bone.008
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.009/Bone.010
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.013/Bone.014
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/Bone.017/Bone.018
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/eHat1/eHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/hatBase/hatMid/hatTip
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/nHat1/nHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1
+        weight: 1
+      - path: Armature/Abdomin/Chest/Head/Hat/sHat1/sHat2
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerIndex1.L/fingerIndex2.L/fingerIndex3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerMiddle1.L/fingerMiddle2.L/fingerMiddle3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerPinky1.L/fingerPinky2.L/fingerPinky3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerRing1.L/fingerRing2.L/fingerRing3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.L/Forearm.L/Wrist.L/fingerThumb1.L/fingerThumb2.L/fingerThumb3.L
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerIndex1.R/fingerIndex2.R/fingerIndex3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerMiddle1.R/fingerMiddle2.R/fingerMiddle3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerPinky1.R/fingerPinky2.R/fingerPinky3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerRing1.R/fingerRing2.R/fingerRing3.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R
+        weight: 1
+      - path: Armature/Abdomin/Chest/Upperarm.R/Forearm.R/Wrist.R/fingerThumb1.R/fingerThumb2.R/fingerThumb3.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.L/Calf.L
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R
+        weight: 1
+      - path: Armature/Abdomin/Thigh.R/Calf.R
+        weight: 1
+      - path: Armature/Elbow.L
+        weight: 1
+      - path: Armature/Elbow.R
+        weight: 1
+      - path: Armature/Foot IK.L
+        weight: 1
+      - path: Armature/Foot IK.L/Foot.L
+        weight: 1
+      - path: Armature/Foot IK.R
+        weight: 1
+      - path: Armature/Foot IK.R/Foot.R
+        weight: 1
+      - path: Armature/Head IK.L
+        weight: 1
+      - path: Armature/Knee.L
+        weight: 1
+      - path: Armature/Knee.R
+        weight: 1
+      - path: Armature/Neck.L
+        weight: 1
+      - path: Armature/Wrist IK.L
+        weight: 1
+      - path: Armature/Wrist IK.R
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: Wizard
+        weight: 1
+      - path: WizardHat
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

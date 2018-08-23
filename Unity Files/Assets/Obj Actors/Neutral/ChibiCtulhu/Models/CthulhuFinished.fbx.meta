@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: db81f7a70ba5daf40b6dac78cfb7bba3
+timeCreated: 1502159984
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: Feather End Left
+    100006: Feather End Left_end
+    100008: Feather End Right
+    100010: Feather End Right_end
+    100012: Feather Mid Left
+    100014: Feather Mid Left_end
+    100016: Feather Mid Right
+    100018: Feather Mid Right_end
+    100020: Fore Tentacle End Left
+    100022: Fore Tentacle End Left_end
+    100024: Fore Tentacle End Right
+    100026: Fore Tentacle End Right_end
+    100028: Fore Tentacle Mid Left
+    100030: Fore Tentacle Mid Right
+    100032: Fore Tentacle Start Left
+    100034: Fore Tentacle Start Right
+    100036: Head
+    100038: Head.001
+    100040: Head.002
+    100042: Head.003
+    100044: Head.004
+    100046: Head.005
+    100048: Head.006
+    100050: Head.007
+    100052: Head.008
+    100054: Head.009
+    100056: Head.010
+    100058: Head.011
+    100060: Head.012
+    100062: Hind Tentacle End Left
+    100064: Hind Tentacle End Left_end
+    100066: Hind Tentacle End Right
+    100068: Hind Tentacle End Right_end
+    100070: Hind Tentacle Mid Left
+    100072: Hind Tentacle Mid Right
+    100074: Hind Tentacle Start Left
+    100076: Hind Tentacle Start Right
+    100078: Mandible End Left
+    100080: Mandible End Left_end
+    100082: Mandible End Right
+    100084: Mandible End Right_end
+    100086: Mandible Mid Left
+    100088: Mandible Mid Right
+    100090: Mandible Start Left
+    100092: Mandible Start Right
+    100094: Mid Tentacle End Left
+    100096: Mid Tentacle End Left_end
+    100098: Mid Tentacle End Right
+    100100: Mid Tentacle End Right_end
+    100102: Mid Tentacle Mid Left
+    100104: Mid Tentacle Mid Right
+    100106: Mid Tentacle Start Left
+    100108: Mid Tentacle Start Right
+    100110: Point
+    100112: Rear Tentacle End Left
+    100114: Rear Tentacle End Left_end
+    100116: Rear Tentacle End Right
+    100118: Rear Tentacle End Right_end
+    100120: Rear Tentacle Mid Left
+    100122: Rear Tentacle Mid Right
+    100124: Rear Tentacle Start Left
+    100126: Rear Tentacle Start Right
+    100128: Sphere
+    100130: Wing End Left
+    100132: Wing End Right
+    100134: Wing Mid Left
+    100136: Wing Mid Right
+    100138: Wing Start Left
+    100140: Wing Start Right
+    400000: Armature
+    400002: //RootNode
+    400004: Feather End Left
+    400006: Feather End Left_end
+    400008: Feather End Right
+    400010: Feather End Right_end
+    400012: Feather Mid Left
+    400014: Feather Mid Left_end
+    400016: Feather Mid Right
+    400018: Feather Mid Right_end
+    400020: Fore Tentacle End Left
+    400022: Fore Tentacle End Left_end
+    400024: Fore Tentacle End Right
+    400026: Fore Tentacle End Right_end
+    400028: Fore Tentacle Mid Left
+    400030: Fore Tentacle Mid Right
+    400032: Fore Tentacle Start Left
+    400034: Fore Tentacle Start Right
+    400036: Head
+    400038: Head.001
+    400040: Head.002
+    400042: Head.003
+    400044: Head.004
+    400046: Head.005
+    400048: Head.006
+    400050: Head.007
+    400052: Head.008
+    400054: Head.009
+    400056: Head.010
+    400058: Head.011
+    400060: Head.012
+    400062: Hind Tentacle End Left
+    400064: Hind Tentacle End Left_end
+    400066: Hind Tentacle End Right
+    400068: Hind Tentacle End Right_end
+    400070: Hind Tentacle Mid Left
+    400072: Hind Tentacle Mid Right
+    400074: Hind Tentacle Start Left
+    400076: Hind Tentacle Start Right
+    400078: Mandible End Left
+    400080: Mandible End Left_end
+    400082: Mandible End Right
+    400084: Mandible End Right_end
+    400086: Mandible Mid Left
+    400088: Mandible Mid Right
+    400090: Mandible Start Left
+    400092: Mandible Start Right
+    400094: Mid Tentacle End Left
+    400096: Mid Tentacle End Left_end
+    400098: Mid Tentacle End Right
+    400100: Mid Tentacle End Right_end
+    400102: Mid Tentacle Mid Left
+    400104: Mid Tentacle Mid Right
+    400106: Mid Tentacle Start Left
+    400108: Mid Tentacle Start Right
+    400110: Point
+    400112: Rear Tentacle End Left
+    400114: Rear Tentacle End Left_end
+    400116: Rear Tentacle End Right
+    400118: Rear Tentacle End Right_end
+    400120: Rear Tentacle Mid Left
+    400122: Rear Tentacle Mid Right
+    400124: Rear Tentacle Start Left
+    400126: Rear Tentacle Start Right
+    400128: Sphere
+    400130: Wing End Left
+    400132: Wing End Right
+    400134: Wing Mid Left
+    400136: Wing Mid Right
+    400138: Wing Start Left
+    400140: Wing Start Right
+    4300000: Sphere
+    9500000: //RootNode
+    13700000: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

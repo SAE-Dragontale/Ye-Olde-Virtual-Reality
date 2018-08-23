@@ -1,0 +1,445 @@
+fileFormatVersion: 2
+guid: e4ed5cee1f5b4f24bbe5a99ba7d1d9ec
+timeCreated: 1503491045
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: abdomin
+    100002: Armature
+    100004: calf.L
+    100006: calf.L_end
+    100008: calf.R
+    100010: calf.R_end
+    100012: Camera
+    100014: chest
+    100016: Cube
+    100018: elbow.L
+    100020: elbow.L_end
+    100022: elbow.R
+    100024: elbow.R_end
+    100026: fingerindex1.L
+    100028: fingerindex1.R
+    100030: fingerindex2.L
+    100032: fingerindex2.R
+    100034: fingerindex3.L
+    100036: fingerindex3.L_end
+    100038: fingerindex3.R
+    100040: fingerindex3.R_end
+    100042: fingermiddle1.L
+    100044: fingermiddle1.R
+    100046: fingermiddle2.L
+    100048: fingermiddle2.R
+    100050: fingermiddle3.L
+    100052: fingermiddle3.L_end
+    100054: fingermiddle3.R
+    100056: fingermiddle3.R_end
+    100058: fingerpink2.L
+    100060: fingerpink2.R
+    100062: fingerpinky1.L
+    100064: fingerpinky1.R
+    100066: fingerpinky3.L
+    100068: fingerpinky3.L_end
+    100070: fingerpinky3.R
+    100072: fingerpinky3.R_end
+    100074: fingerring1.L
+    100076: fingerring1.R
+    100078: fingerring2.L
+    100080: fingerring2.R
+    100082: fingerring3.L
+    100084: fingerring3.L_end
+    100086: fingerring3.R
+    100088: fingerring3.R_end
+    100090: fingerthumb1.L
+    100092: fingerthumb1.R
+    100094: fingerthumb2.L
+    100096: fingerthumb2.R
+    100098: fingerthumb3.L
+    100100: fingerthumb3.L_end
+    100102: fingerthumb3.R
+    100104: fingerthumb3.R_end
+    100106: foot.L
+    100108: foot.L_end
+    100110: foot.R
+    100112: foot.R_end
+    100114: footIK.L
+    100116: footIK.R
+    100118: forearm.L
+    100120: forearm.R
+    100122: handIK.L
+    100124: handIK.L_end
+    100126: handIK.R
+    100128: handIK.R_end
+    100130: head
+    100132: head_end
+    100134: headIK.L
+    100136: headIK.L_end
+    100138: knee.L
+    100140: knee.L_end
+    100142: knee.R
+    100144: knee.R_end
+    100146: Lamp
+    100148: //RootNode
+    100150: neck
+    100152: neck_end
+    100154: thigh.L
+    100156: thigh.R
+    100158: upperarm.L
+    100160: upperarm.R
+    100162: wrist.L
+    100164: wrist.R
+    400000: abdomin
+    400002: Armature
+    400004: calf.L
+    400006: calf.L_end
+    400008: calf.R
+    400010: calf.R_end
+    400012: Camera
+    400014: chest
+    400016: Cube
+    400018: elbow.L
+    400020: elbow.L_end
+    400022: elbow.R
+    400024: elbow.R_end
+    400026: fingerindex1.L
+    400028: fingerindex1.R
+    400030: fingerindex2.L
+    400032: fingerindex2.R
+    400034: fingerindex3.L
+    400036: fingerindex3.L_end
+    400038: fingerindex3.R
+    400040: fingerindex3.R_end
+    400042: fingermiddle1.L
+    400044: fingermiddle1.R
+    400046: fingermiddle2.L
+    400048: fingermiddle2.R
+    400050: fingermiddle3.L
+    400052: fingermiddle3.L_end
+    400054: fingermiddle3.R
+    400056: fingermiddle3.R_end
+    400058: fingerpink2.L
+    400060: fingerpink2.R
+    400062: fingerpinky1.L
+    400064: fingerpinky1.R
+    400066: fingerpinky3.L
+    400068: fingerpinky3.L_end
+    400070: fingerpinky3.R
+    400072: fingerpinky3.R_end
+    400074: fingerring1.L
+    400076: fingerring1.R
+    400078: fingerring2.L
+    400080: fingerring2.R
+    400082: fingerring3.L
+    400084: fingerring3.L_end
+    400086: fingerring3.R
+    400088: fingerring3.R_end
+    400090: fingerthumb1.L
+    400092: fingerthumb1.R
+    400094: fingerthumb2.L
+    400096: fingerthumb2.R
+    400098: fingerthumb3.L
+    400100: fingerthumb3.L_end
+    400102: fingerthumb3.R
+    400104: fingerthumb3.R_end
+    400106: foot.L
+    400108: foot.L_end
+    400110: foot.R
+    400112: foot.R_end
+    400114: footIK.L
+    400116: footIK.R
+    400118: forearm.L
+    400120: forearm.R
+    400122: handIK.L
+    400124: handIK.L_end
+    400126: handIK.R
+    400128: handIK.R_end
+    400130: head
+    400132: head_end
+    400134: headIK.L
+    400136: headIK.L_end
+    400138: knee.L
+    400140: knee.L_end
+    400142: knee.R
+    400144: knee.R_end
+    400146: Lamp
+    400148: //RootNode
+    400150: neck
+    400152: neck_end
+    400154: thigh.L
+    400156: thigh.R
+    400158: upperarm.L
+    400160: upperarm.R
+    400162: wrist.L
+    400164: wrist.R
+    4300000: Cube
+    7400000: Armature|Bar
+    7400002: Armature|Leaning
+    7400004: Armature|Passed Out
+    7400006: Armature|PoseLib
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Leaning
+      takeName: Armature|Leaning
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/abdomin
+        weight: 1
+      - path: Armature/abdomin/chest
+        weight: 1
+      - path: Armature/abdomin/chest/head
+        weight: 1
+      - path: Armature/abdomin/chest/head/head_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerindex1.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerindex1.L/fingerindex2.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerindex1.L/fingerindex2.L/fingerindex3.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerindex1.L/fingerindex2.L/fingerindex3.L/fingerindex3.L_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingermiddle1.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingermiddle1.L/fingermiddle2.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingermiddle1.L/fingermiddle2.L/fingermiddle3.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingermiddle1.L/fingermiddle2.L/fingermiddle3.L/fingermiddle3.L_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerpinky1.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerpinky1.L/fingerpink2.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerpinky1.L/fingerpink2.L/fingerpinky3.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerpinky1.L/fingerpink2.L/fingerpinky3.L/fingerpinky3.L_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerring1.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerring1.L/fingerring2.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerring1.L/fingerring2.L/fingerring3.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerring1.L/fingerring2.L/fingerring3.L/fingerring3.L_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerthumb1.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerthumb1.L/fingerthumb2.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerthumb1.L/fingerthumb2.L/fingerthumb3.L
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.L/forearm.L/wrist.L/fingerthumb1.L/fingerthumb2.L/fingerthumb3.L/fingerthumb3.L_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerindex1.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerindex1.R/fingerindex2.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerindex1.R/fingerindex2.R/fingerindex3.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerindex1.R/fingerindex2.R/fingerindex3.R/fingerindex3.R_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingermiddle1.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingermiddle1.R/fingermiddle2.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingermiddle1.R/fingermiddle2.R/fingermiddle3.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingermiddle1.R/fingermiddle2.R/fingermiddle3.R/fingermiddle3.R_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerpinky1.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerpinky1.R/fingerpink2.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerpinky1.R/fingerpink2.R/fingerpinky3.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerpinky1.R/fingerpink2.R/fingerpinky3.R/fingerpinky3.R_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerring1.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerring1.R/fingerring2.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerring1.R/fingerring2.R/fingerring3.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerring1.R/fingerring2.R/fingerring3.R/fingerring3.R_end
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerthumb1.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerthumb1.R/fingerthumb2.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerthumb1.R/fingerthumb2.R/fingerthumb3.R
+        weight: 1
+      - path: Armature/abdomin/chest/upperarm.R/forearm.R/wrist.R/fingerthumb1.R/fingerthumb2.R/fingerthumb3.R/fingerthumb3.R_end
+        weight: 1
+      - path: Armature/abdomin/thigh.L
+        weight: 1
+      - path: Armature/abdomin/thigh.L/calf.L
+        weight: 1
+      - path: Armature/abdomin/thigh.L/calf.L/calf.L_end
+        weight: 1
+      - path: Armature/abdomin/thigh.R
+        weight: 1
+      - path: Armature/abdomin/thigh.R/calf.R
+        weight: 1
+      - path: Armature/abdomin/thigh.R/calf.R/calf.R_end
+        weight: 1
+      - path: Armature/elbow.L
+        weight: 1
+      - path: Armature/elbow.L/elbow.L_end
+        weight: 1
+      - path: Armature/elbow.R
+        weight: 1
+      - path: Armature/elbow.R/elbow.R_end
+        weight: 1
+      - path: Armature/footIK.L
+        weight: 1
+      - path: Armature/footIK.L/foot.L
+        weight: 1
+      - path: Armature/footIK.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/footIK.R
+        weight: 1
+      - path: Armature/footIK.R/foot.R
+        weight: 1
+      - path: Armature/footIK.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/handIK.L
+        weight: 1
+      - path: Armature/handIK.L/handIK.L_end
+        weight: 1
+      - path: Armature/handIK.R
+        weight: 1
+      - path: Armature/handIK.R/handIK.R_end
+        weight: 1
+      - path: Armature/headIK.L
+        weight: 1
+      - path: Armature/headIK.L/headIK.L_end
+        weight: 1
+      - path: Armature/knee.L
+        weight: 1
+      - path: Armature/knee.L/knee.L_end
+        weight: 1
+      - path: Armature/knee.R
+        weight: 1
+      - path: Armature/knee.R/knee.R_end
+        weight: 1
+      - path: Armature/neck
+        weight: 1
+      - path: Armature/neck/neck_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
